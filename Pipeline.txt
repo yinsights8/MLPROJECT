@@ -1,0 +1,22 @@
+Day 1:
+
+End To end data science project 
+1. Git and github repository setup
+2. Project setup
+3. Requirement.txt
+
+1. create a env in side the project folder
+>> conda create -p venv python==3.9   OR
+
+- activate the env 
+>>conda activate venv/
+
+2. Create a github repository and add and commit the repository inside vscode terminal
+
+3. create a gitignore file inside git repository
+# 1. gitignore is use to ignore the file which we do not need to commit (ex. venv)
+- create gitignore in git repository 
+- in vscode terminal write a command to pull the gitignore into the project file
+>> git pull origin main
+
+4. create requirement.txt file to install the libraries
