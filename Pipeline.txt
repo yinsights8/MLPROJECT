@@ -20,3 +20,13 @@ End To end data science project
 >> git pull origin main
 
 4. create requirement.txt file to install the libraries
+- if the project is completed and to generate the requirement.txt, type bellow command
+>> pip freeze
+- if starting project, create requirement.txt and to instal packages type bellow command
+>> pip install -r requirements.txt
+
+
+5. Create a setup.py to create a entire application into package so that we can use in any computers
+setup.py is resposible to to show the info related to packeges such as name author etc.. and it will install the packages for the project required to run the  application
+
+
