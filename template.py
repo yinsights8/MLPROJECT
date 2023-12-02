@@ -7,6 +7,7 @@ logging.basicConfig(level=logging.INFO)
 project_name = "Mlproject"
 
 list_of_files = [
+    ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/Components/__init__.py",
     f"src/{project_name}/Components/data_ingestion.py",

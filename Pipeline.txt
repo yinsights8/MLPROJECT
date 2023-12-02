@@ -29,4 +29,18 @@ End To end data science project
 5. Create a setup.py to create a entire application into package so that we can use in any computers
 setup.py is resposible to to show the info related to packeges such as name author etc.. and it will install the packages for the project required to run the  application
 
+6. Logging and exception handler
+- this step is very important 
+
+- 1. Logging :- Logging is a way to store information about your script and track events that occur. When writing any complex script in Python, logging is essential for debugging software as you develop it. Without logging, finding the source of a problem in your code may be extremely time consuming.
+
+- 2. Exception handler :- 
+
+
+7. Data Ingestion
+> Components
+	- 1. Data ingestion
+		- 1. read the data from database and do train_test_split
+
+
 
